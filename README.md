@@ -5,8 +5,8 @@ SpringBoot + React  연습용 게시판
 https://velog.io/@unu/%EA%B9%83-%ED%84%B0%EB%AF%B8%EB%84%90%EB%A1%9C-%EA%B9%83%ED%97%88%EB%B8%8C%EC%97%90-%EB%82%B4-%ED%8C%8C%EC%9D%BC%ED%8F%B4%EB%8D%94-%EC%98%AC%EB%A6%AC%EA%B8%B0
 
 1. h2 실행
-![image](https://user-images.githubusercontent.com/57786933/165565130-8dd5f912-0174-4946-bbe0-f49b51247789.png)
-![image](https://user-images.githubusercontent.com/57786933/165565156-55cfb031-bc0b-438e-8bdc-5e7074bd1c05.png)
+![image](https://user-images.githubusercontent.com/57786933/165565757-9be42f7b-4d51-4a55-92c9-e4eec5ab1145.png)
+
 
 2. react 실행(vscode - npm start)
 ![image](https://user-images.githubusercontent.com/57786933/165565233-6ef442ab-90a0-4c8a-88bc-a5736d212c2f.png)

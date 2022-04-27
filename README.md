@@ -4,6 +4,8 @@ SpringBoot + React  연습용 게시판
 깃허브 프로젝트올리는법
 https://velog.io/@unu/%EA%B9%83-%ED%84%B0%EB%AF%B8%EB%84%90%EB%A1%9C-%EA%B9%83%ED%97%88%EB%B8%8C%EC%97%90-%EB%82%B4-%ED%8C%8C%EC%9D%BC%ED%8F%B4%EB%8D%94-%EC%98%AC%EB%A6%AC%EA%B8%B0
 
+프로젝트 클론코딩 참고 : https://4coops.tistory.com/entry/React-Spring-Boot-CRUD-%EB%A7%8C%EB%93%A4%EA%B8%B0
+
 1. h2 실행
 ![image](https://user-images.githubusercontent.com/57786933/165565757-9be42f7b-4d51-4a55-92c9-e4eec5ab1145.png)
 
